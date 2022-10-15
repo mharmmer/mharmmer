@@ -28,8 +28,14 @@
 </table>
 
 </br>
-</br>
-<h1></h1>
+
+<div display="inline-block">
+ 
+ <h1 align="left">Contact</h1>
+ <p>Tenho 26 anos, moro em Curitiba no estado do Paraná, sou apaixonado por tecnologia e jogos! Iniciei a transição de carreira para essa maravilhosa área de programação em meados de 2022 e em Agosto do mesmo ano iniciei o curso de Desenvolvimento de Software da Trybe.</p>
+</div>
+
+<h1 align="left">GitHub Status</h1>
 <div align="center">
 <a href="https://github.com/mharmmer">
   <img height="150em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mharmmer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
