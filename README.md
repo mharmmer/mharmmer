@@ -21,6 +21,6 @@
     <th>Dev Tools</th>
   </tr>
   <tr>
-    <th><img src="img/JavaScript.svg" heigth="30" width="30"></th>
+    <th><img src="img/JavaScript.svg" heigth="30" width="30">&nbsp;&nbsp;<img src="img/Python.png" height="30" width="30"></th>
     <th><img src="img/Git.svg" height="30" width="30"></th>
     <th><img src="img/Vscode.svg" height="30" width="30"></th>
