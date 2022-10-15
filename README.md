@@ -46,8 +46,6 @@
     </a>
 </div>
 
-</br>
-
 <h1 align="left">Views</h1>
 <div align="center">
 	<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
