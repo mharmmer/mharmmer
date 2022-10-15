@@ -1,6 +1,6 @@
 <h1 align="center"><strong>Hello World! 👋, my name is Matheus Harmmer</strong></h1>
 
-<img align="right" width="250px" style="margin-top:-20px" src="img/Hello.png">
+<img align="right" width="250px" style="margin-top:-20px" src="img/Hello_cutted.png">
 
 </br>
 </br>
