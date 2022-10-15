@@ -45,7 +45,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" height="80" width="150">
     </a>
 </div>
-
 <h1 align="left">Views</h1>
 <div align="center">
 	<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
