@@ -30,12 +30,12 @@
 </br>
 
 <h1 align="left">Contact</h1>
-<div>
-    <a href="https://www.linkedin.com/in/matheus-harmmer-gimenes-9a65531b5/">
+<div align="center">
+    <a href="https://www.linkedin.com/in/matheus-harmmer-gimenes-9a65531b5/" target="blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" height="80" width="150">
     </a>
-    <a href="https://github.com/mharmmer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="80" width="150">    
+    <a href="#">
+      <img src="img/Outlook.png" height="80" width="150">
     </a>
 </div>
 
