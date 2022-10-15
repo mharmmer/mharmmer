@@ -38,7 +38,7 @@
   </div>
     <div>
     <a href="https://github.com/mharmmer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">    
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="80" width="150">    
     </a>
   </div>
 </div>
