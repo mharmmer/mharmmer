@@ -11,6 +11,8 @@
  <p>Tenho 26 anos, moro em Curitiba no estado do Paraná, sou apaixonado por tecnologia e jogos! Vim da área da Engenharia Mecânica e estou iniciando minha transição de carreira para esse maravilhoso mundo da programação.</p>
 </div>
 
+
+
 <table>
   <tr>
     <th>Languages</th>
