@@ -22,5 +22,5 @@
   </tr>
   <tr>
     <th><img src="img/JavaScript.svg" heigth="30" width="30">&nbsp;&nbsp;<img src="img/Python.png" height="30" width="30"></th>
-    <th><img src="img/Git.svg" height="30" width="30"></th>
-    <th><img src="img/Vscode.svg" height="30" width="30"></th>
+    <th><img src="img/Git.svg" height="30" width="30">&nbsp;&nbsp;<img src="img/HTML5.svg" height="30" width="30">&nbsp;&nbsp;<img src="img/CSS3.svg" height="30" width="30">&nbsp;&nbsp;<img src="img/Node-js.png" height="30" width="30">&nbsp;&nbsp;<img src="img/jest.svg" height="30" width="30"></th>
+    <th><img src="img/Vscode.svg" height="30" width="30">&nbsp;&nbsp;<img src="img/Linux.svg" heigth="30" width="30"></th>
