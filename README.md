@@ -8,7 +8,7 @@
 <div dsplay="inline-block">
  
  <h1 align="left">About me</h1>
- <p>Tenho 26 anos, moro em Curitiba no estado do Paraná, sou apaixonado por tecnologia e jogos! Vim da área da Engenharia Mecânica e estou iniciando minha transição de carreira para esse maravilhoso mundo da programação.</p>
+ <p>Tenho 26 anos, moro em Curitiba no estado do Paraná, sou apaixonado por tecnologia e jogos! Iniciei a transição de carreira para essa maravilhosa área de programação em meados de 2022 e em Agosto do mesmo ano iniciei o curso de Desenvolvimento de Software da Trybe.</p>
 </div>
 
 </br>
@@ -24,3 +24,12 @@
     <th><img src="img/JavaScript.svg" heigth="30" width="30">&nbsp;&nbsp;<img src="img/Python.png" height="30" width="30"></th>
     <th><img src="img/Git.svg" height="30" width="30">&nbsp;&nbsp;<img src="img/HTML5.svg" height="30" width="30">&nbsp;&nbsp;<img src="img/CSS3.svg" height="30" width="30">&nbsp;&nbsp;<img src="img/Node.svg" height="30" width="30">&nbsp;&nbsp;<img src="img/jest.svg" height="30" width="30">&nbsp;&nbsp;<img src="img/Selenium.png" heigth="30" width="30"></th>
     <th><img src="img/Vscode.svg" height="30" width="30">&nbsp;&nbsp;<img src="img/Linux.svg" heigth="30" width="30">&nbsp;&nbsp;<img src="img/GitHub.svg" height="30" width="30"></th>
+
+</br>
+</br>
+
+<div>
+<a href="https://github.com/mharmmer">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mharmmer&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mharmmer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
