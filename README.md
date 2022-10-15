@@ -42,7 +42,7 @@
 <h1 align="left">Contact</h1>
 <div align="center">
     <a href="https://www.linkedin.com/in/matheus-harmmer-gimenes-9a65531b5/" target="blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" height="50" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" height="80" width="150">
     </a>
 </div>
 
