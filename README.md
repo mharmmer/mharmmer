@@ -29,10 +29,10 @@
 
 </br>
 </br>
-
+<h1></h1>
 <div align="center">
 <a href="https://github.com/mharmmer">
-  <img height="150em" width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mharmmer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" width="40%"src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mharmmer&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="150em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mharmmer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" width="45%"src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mharmmer&layout=compact&langs_count=8&theme=dracula"/>
 </a>
 </div>
