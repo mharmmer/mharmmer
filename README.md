@@ -29,20 +29,19 @@
 
 </br>
 
-<h1 align="left">Contact</h1>
-<div align="center">
-    <a href="https://www.linkedin.com/in/matheus-harmmer-gimenes-9a65531b5/" target="blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" height="80" width="150">
-    </a>
-    <a href="#">
-      <img src="img/Outlook.png" height="70" width="100">
-    </a>
-</div>
-
 <h1 align="left">GitHub Status</h1>
 <div align="center">
 <a href="https://github.com/mharmmer">
   <img height="150em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mharmmer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" width="45%"src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mharmmer&layout=compact&langs_count=8&theme=dracula"/>
 </a>
+</div>
+
+</br>
+
+<h1 align="left">Contact</h1>
+<div align="center">
+    <a href="https://www.linkedin.com/in/matheus-harmmer-gimenes-9a65531b5/" target="blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" height="80" width="150">
+    </a>
 </div>
