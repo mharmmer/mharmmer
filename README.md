@@ -29,7 +29,7 @@
 
 </br>
 
-<div>
+<div display="inline-block">
   <h1 align="left">Contact</h1>
   <div>
     <a href="https://www.linkedin.com/in/matheus-harmmer-gimenes-9a65531b5/">
