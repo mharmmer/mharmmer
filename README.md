@@ -14,7 +14,7 @@
 </br>
 </br>
 
-<table style="width:70%">
+<table style="width:70%" align="center">
   <tr>
     <th>Languages</th>
     <th>Frameworks and Technologies</th>
