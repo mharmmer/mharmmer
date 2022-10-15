@@ -29,10 +29,12 @@
 
 </br>
 
-<div display="inline-block">
- 
- <h1 align="left">Contact</h1>
- <p>Linkedin: <a href="https://www.linkedin.com/in/matheus-harmmer-gimenes-9a65531b5/"><img src="img/Linkedin-Logo.png" height="30" width="100"></a></p>
+<div>
+  <h1 align="left">Contact</h1>
+  <div>Linkedin: 
+    <a href="https://www.linkedin.com/in/matheus-harmmer-gimenes-9a65531b5/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+    </a>
+  </div>
 </div>
 
 <h1 align="left">GitHub Status</h1>
