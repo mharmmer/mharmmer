@@ -1,16 +1,20 @@
-Hello World! 👋
+<h1 align="center"><strong>Hello World! 👋, my name is Matheus Harmmer</strong></h1>
 
-<!--
-**mharmmer/mharmmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="250px" style="margin-top:-20px" src="">
 
-Here are some ideas to get you started:
+</br>
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div dsplay="inline-block">
+ 
+ <h1 align="left">About me</h1>
+ <p>Tenho 26 anos, moro em Curitiba no estado do Paraná, sou apaixonado por tecnologia e jogos! Vim da área da Engenharia Mecânica e estou iniciando minha transição de carreira para esse maravilhoso mundo da programação.</p>
+</div>
+
+
+
+
+
+
+
+
