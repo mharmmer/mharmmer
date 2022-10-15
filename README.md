@@ -35,7 +35,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" height="80" width="150">
     </a>
     <a href="#">
-      <img src="img/Outlook.png" height="80" width="150">
+      <img src="img/Outlook.png" height="70" width="100">
     </a>
 </div>
 
