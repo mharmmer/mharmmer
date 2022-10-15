@@ -32,7 +32,7 @@
 <div>
   <h1 align="left">Contact</h1>
   <div>Linkedin: 
-    <a href="https://www.linkedin.com/in/matheus-harmmer-gimenes-9a65531b5/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+    <a href="https://www.linkedin.com/in/matheus-harmmer-gimenes-9a65531b5/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height = "50" width="50">
     </a>
   </div>
 </div>
