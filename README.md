@@ -32,7 +32,7 @@
 <div display="inline-block">
  
  <h1 align="left">Contact</h1>
- <p>Tenho 26 anos, moro em Curitiba no estado do Paraná, sou apaixonado por tecnologia e jogos! Iniciei a transição de carreira para essa maravilhosa área de programação em meados de 2022 e em Agosto do mesmo ano iniciei o curso de Desenvolvimento de Software da Trybe.</p>
+ <p>Linkedin: <a href="https://www.linkedin.com/in/matheus-harmmer-gimenes-9a65531b5/"><img src="img/Linkedin-Logo.png" height="30" width="100"></a></p>
 </div>
 
 <h1 align="left">GitHub Status</h1>
