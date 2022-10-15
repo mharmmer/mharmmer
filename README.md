@@ -8,7 +8,7 @@
 <div display="inline-block">
  
  <h1 align="left">About me</h1>
- <p>Tenho 26 anos, moro em Curitiba no estado do Paraná, sou apaixonado por tecnologia e jogos! Iniciei a transição de carreira para essa maravilhosa área de programação em meados de 2022 e em Agosto do mesmo ano iniciei o curso de Desenvolvimento de Software da Trybe.</p>
+ <p>Tenho 26 anos, moro em Curitiba no estado do Paraná, sou apaixonado por tecnologia e jogos! Iniciei a transição de carreira para essa maravilhosa área de programação em meados de 2022, e em Agosto do mesmo ano iniciei o curso de Desenvolvimento de Software da Trybe.</p>
 </div>
 
 </br>
